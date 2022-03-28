@@ -6,6 +6,7 @@ body,
 }
 
 .grid-container {
+    
     width: 700px;
     height: 400px;
     display: grid;
